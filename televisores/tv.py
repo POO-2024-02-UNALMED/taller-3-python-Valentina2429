@@ -1,3 +1,5 @@
+from televisores.marca import Marca
+
 class TV:
     _numTV = 0
 
