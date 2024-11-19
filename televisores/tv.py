@@ -1,5 +1,4 @@
-from televisores.marca import Marca
-from televisores.control import Control
+from __future__ import annotations
 
 class TV:
     _numTV = 0
